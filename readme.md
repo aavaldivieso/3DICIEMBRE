@@ -21,4 +21,4 @@ OpenSans-Regular.ttf
 
 IMÁGENES
 
-![alt text](https://raw.githubusercontent.com/aavaldivieso/3DICIEMBRE/branch/path/to/SKETCH.jpg)
+![alt text](https://github.com/aavaldivieso/3DICIEMBRE/blob/master/SKETCH.jpg)
